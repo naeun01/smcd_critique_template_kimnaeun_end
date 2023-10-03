@@ -6,4 +6,4 @@ const reference = [
     sourceTitle: "",
     link: "",
   },
-]
+];
